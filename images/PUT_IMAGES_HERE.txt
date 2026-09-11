@@ -1,0 +1,25 @@
+Folder ini sengaja kosong.
+
+Tempel 2 file berikut di folder ini dengan NAMA PERSIS seperti di bawah —
+situs akan otomatis memakainya, tanpa perlu edit kode sama sekali:
+
+1. logo.png
+   Logo OZEIS (yang bentuk jam pasir oranye). Idealnya PNG background
+   transparan, minimal 500x500px. Dipakai di header, footer, dan hero.
+
+2. storefront.jpg
+   Foto tampak depan cafe (seperti screenshot Google Maps yang kamu kirim).
+   Format JPG/PNG, landscape, minimal 1200px lebar. Dipakai di section
+   "Suasana" (Gallery).
+
+Menu tidak pakai gambar — sudah dibuat manual (teks) di section Menu,
+lengkap dengan semua kategori, harga Hot/Ice, dan tanda ★ untuk item
+favorit, serta bisa dicari & difilter per kategori. Tidak perlu file
+gambar apa pun untuk menu.
+
+Selama file belum ada, situs otomatis menampilkan logo pengganti versi SVG
+(rekonstruksi bentuk logo asli) dan ikon toko sebagai placeholder — jadi
+situs tetap terlihat rapi meski file ini belum kamu isi.
+
+Setelah kamu drop kedua file di atas ke folder ini, hapus (atau abaikan
+saja) file .txt ini — tidak akan dibaca oleh situs.
